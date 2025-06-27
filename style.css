@@ -1,7 +1,7 @@
 :root {
     --primary: #2e7d32;
     --secondary: #a5d6a7;
-    --bg-img: url('/img/back_hijau.jpg');
+    --bg-img: url('img/back_hijau.jpg');
     --shadow: rgba(0, 0, 0, 0.1);
 }
 
